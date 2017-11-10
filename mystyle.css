@@ -1,0 +1,43 @@
+			header {
+				background-color:black; 
+				color:white;
+				padding-right: 35px;
+
+			}
+			.Texto{
+				color:yellow;
+				font-size: 14px;
+				float:right;
+				font-family: 'Open Sans', sans-serif;
+				text-align: center;
+
+			}
+
+            .derecho {
+			   background-color:#888b8d; 
+	        	color:white;
+	        	padding: 15px; 
+	        	width:505px;
+	        	height:100px;
+   				float:right;
+			    overflow: auto;
+			    margin: 20px;
+	        }
+		    .boton {
+			    background-color:#002554;
+			    width:20px;
+			    height:20px;
+			    margin:30px; 
+			    float:right;
+			}
+
+		    .lindo{
+				 border-width: 15px;
+				 margin: 15px;
+				 padding-top: 15px;
+				 background-color:#888b8d; 
+				 color:white; 
+				 width:430px;
+				 height:100px;
+
+			}
